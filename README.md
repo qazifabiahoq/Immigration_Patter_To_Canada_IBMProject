@@ -1,6 +1,6 @@
 # Immigration to Canada (1980-2013)
 ## Introduction
-This project utilizes geospatial data visualization to analyze immigration patterns to Canada from various countries over a period of 33 years (1980-2013). The primary goal is to provide an interactive, visual representation of immigration inflows from different nations, leveraging several data science and visualization techniques such as data preprocessing, statistical analysis, and geospatial mapping.
+This project utilizes various data visualization to analyze immigration patterns to Canada from various countries over a period of 33 years (1980-2013). The primary goal is to provide an interactive, visual representation of immigration inflows from different nations, leveraging several data science and visualization techniques such as data preprocessing, statistical analysis, and geospatial mapping.
 
 Data Source: The data used for this analysis is derived from the United Nations’ 2015 revision on international migration flows, detailing the immigration to Canada from different countries around the world. This dataset includes immigration data from 1980 to 2013, and it also categorizes countries by region, continent, and development status (developed or developing regions).
 
