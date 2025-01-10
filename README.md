@@ -1,4 +1,4 @@
-# Immigration to Canada (1980-2013)
+# Analysis of Immigration Pattern to Canada (1980-2013)
 ## Introduction
 This project utilizes various data visualization to analyze immigration patterns to Canada from various countries over a period of 33 years (1980-2013). The primary goal is to provide an interactive, visual representation of immigration inflows from different nations, leveraging several data science and visualization techniques such as data preprocessing, statistical analysis, and geospatial mapping.
 
